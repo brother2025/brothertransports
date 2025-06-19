@@ -55,7 +55,7 @@ header nav a:hover {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('img/hero.jpg') center/cover no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(' img/hero.jpg ') center/cover no-repeat;
   color: #fff;
   text-align: center;
   padding: 80px 20px;
